@@ -22,5 +22,5 @@ const greeting = "Soy un mal ejemplo";
 const greeting = "Soy un saludo secreto";
 ```
 
-### Actualizacion desde la rama developer 
-### Se hara una solicitud de pull request
+### Actualizacion desde la rama developer.
+### Se hara una solicitud de pull request.
